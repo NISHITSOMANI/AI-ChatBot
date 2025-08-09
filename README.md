@@ -7,6 +7,7 @@ It uses JSON-based training data to generate responses and demonstrates a minima
 
 ## Project Structure
 
+```plaintext
 AI-ChatBot/
 ├── app.py                  # Main Flask application
 ├── utils.py                # Helper functions for chatbot logic
@@ -14,7 +15,7 @@ AI-ChatBot/
 ├── requirements.txt        # Python dependencies
 ├── templates/              # HTML templates for frontend UI
 └── static/                 # CSS, JS, and other static assets
-
+```
 ---
 
 ## Features
